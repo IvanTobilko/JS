@@ -90,6 +90,16 @@ console.log(changers11);
 // alert(changers11);
 
 
+let me ={
+   Firstname: 'Ivan',
+    middleName: 'Anatolievich',
+    lastName: 'Tobilko',
+    age: '30'
+};
+console.log(me);
+console.log('Congrudulation', me.Firstname,me.middleName, 'You', me.age,'years old')
+
+
 let a = 100;
 let b = '100';
 let c = true;
